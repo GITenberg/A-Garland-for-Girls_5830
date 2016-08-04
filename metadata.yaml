@@ -1,0 +1,38 @@
+_repo: A-Garland-for-Girls_5830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: 'Confides the author: These stories were written for my own amusement
+  during a period of enforced seclusion. The flowers which were my solace and pleasure
+  suggested titles for the tales..." This 1888 collection includes May Flowers," An
+  Ivy Spray and Ladies'' Slippers," Pansies," Water-Lilies," Poppies and Wheat," Little
+  Button-Rose," and Mountain-Laurel and Maiden-Hair."'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: May flowers -- An ivy spray and ladies' slippers -- Pansies -- Water-lilies
+  -- Poppies and wheat -- Little Button-Rose -- Mountain-laurel and maiden-hair.
+title: A Garland for Girls
+url: http://www.gutenberg.org/ebooks/5830
