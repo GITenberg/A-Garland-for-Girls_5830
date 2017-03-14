@@ -1,5 +1,8 @@
 _repo: A-Garland-for-Girls_5830
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -17,6 +20,8 @@ description: 'Confides the author: These stories were written for my own amuseme
   suggested titles for the tales..." This 1888 collection includes May Flowers," An
   Ivy Spray and Ladies'' Slippers," Pansies," Water-Lilies," Poppies and Wheat," Little
   Button-Rose," and Mountain-Laurel and Maiden-Hair."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5830#A-Garland-for-Girls
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
